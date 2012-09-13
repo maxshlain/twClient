@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="twClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="consumerKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YWm9zyLW7gFSvV2EsVbQ</Value>
+    </Setting>
+    <Setting Name="consumerSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">W9d57yqhAbLV8rZB1syx3V06U6kmDtCNxxlaFkGpSg</Value>
+    </Setting>
+    <Setting Name="pin" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="pinSaved" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="temp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2279180</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
